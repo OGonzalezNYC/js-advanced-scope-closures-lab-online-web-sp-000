@@ -19,4 +19,7 @@ function produceTipCalculator(tipPercentage) {
 
 function createDriver() {
   
+  return class Driver {
+    
+  }
 }
